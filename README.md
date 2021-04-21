@@ -6,5 +6,5 @@ PPL A11.4612 KELOMPOK 5
 - tools
 
 2.Maulana Khalid Fahrelsyah - A11.2018.10927
- -. system analyst
- -. editing document
+ - system analyst
+ - editing document
