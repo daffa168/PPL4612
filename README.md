@@ -8,3 +8,6 @@ PPL A11.4612 KELOMPOK 5
 2.Maulana Khalid Fahrelsyah - A11.2018.10927
  - system analyst
  - editing document
+
+3.Rendi Andrea Pramana - A11.2018.11149
+-project Scope Statement
