@@ -10,4 +10,4 @@ PPL A11.4612 KELOMPOK 5
  - editing document
 
 3.Rendi Andrea Pramana - A11.2018.11149
--project Scope Statement
+ - project Scope Statement
