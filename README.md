@@ -15,3 +15,5 @@ PPL A11.4612 KELOMPOK 5
  - Front-End Programers
 
 5.Akbar Dewanata 		- A11.2018.11558
+ - work breakdown structure
+ - front-end programmer
