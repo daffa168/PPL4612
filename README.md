@@ -3,8 +3,9 @@ PPL A11.4612 KELOMPOK 5
 1.SOFYAN DAFFA LAKSANA - A11.2018.10941
 - Perencanaan
 - tools
-- Main menu UI
+- Main menu
 - Navbar
+- Add fuction
 
 2.Maulana Khalid Fahrelsyah - A11.2018.10927
  - system analyst
