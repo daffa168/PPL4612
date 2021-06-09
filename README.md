@@ -5,7 +5,7 @@ PPL A11.4612 KELOMPOK 5
 - tools
 - Main menu
 - Navbar
-- Fungsi (Add)
+- Fungsi (CRUD)
 
 2.Maulana Khalid Fahrelsyah - A11.2018.10927
  - system analyst
