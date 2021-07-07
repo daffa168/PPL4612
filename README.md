@@ -6,6 +6,8 @@ PPL A11.4612 KELOMPOK 5
 - Main menu
 - Navbar
 - Fungsi (CRUD)
+- Firebase
+- Sign Up , Login, Logout
 
 2.Maulana Khalid Fahrelsyah - A11.2018.10927
  - system analyst
